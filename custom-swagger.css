@@ -1,0 +1,13 @@
+/* public/custom-swagger.css */
+.btn.download-json {
+  border: 2px solid #007bff !important;
+  color: #007bff !important;
+  background: #fff !important;
+  font-weight: 600;
+  margin-left: 8px;
+  transition: background 0.2s, color 0.2s;
+}
+.btn.download-json:hover {
+  background: #007bff !important;
+  color: #fff !important;
+}
