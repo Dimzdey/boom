@@ -32,7 +32,7 @@ window.addEventListener('load', function () {
 
       const gif = document.createElement('img');
 
-      gif.src = '/public/moscow.gif';
+      gif.src = 'https://raw.githubusercontent.com/Dimzdey/boom/refs/heads/main/moscow.gif';
       gif.style.display = 'none';
       gif.style.marginTop = '8px';
       gif.className = 'download-gif';
